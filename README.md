@@ -1,17 +1,9 @@
 # Credit_Simulator
 2 projets de Simulation de  crédit :  REST avec jersy et SOAP avec Axis-2 réalisé avec JEE et Bootstrap
 
-
-                                                ===============================================================
-                                                              Consigne d'integration des projets
-					        ===============================================================
-
- 
-					 Bonjour, ce fichier contient les consignes d'integration du projet intitulé :
-
-						|||||||| 	          IAO-Credit 	         ||||||||
-
-------------------------------------------------------------------------------------------------------------------------------
+===============================================================
+	Consigne d'integration des projets IAO-Credit
+===============================================================
 
 	Le dossier global contient les elements suivants 
 	
@@ -44,7 +36,7 @@
 
 	 1) le JDK     
   
-     		Version : jdk1.8.0_251
+     		 Version : jdk1.8.0_251
 
 	 2) le Serveur  
       
@@ -60,7 +52,7 @@
  
  	 5) Jersy 
     
-		     Version : Jaxrs-ri-2.25.1 ( integré dans le projet REST)
+		 Version : Jaxrs-ri-2.25.1 ( integré dans le projet REST)
 
 Coordonné de test :
 			                 
