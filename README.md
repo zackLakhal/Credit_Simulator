@@ -2,7 +2,9 @@
 2 projets de Simulation de  crédit :  REST avec jersy et SOAP avec Axis-2 réalisé avec JEE et Bootstrap
 
 ===============================================================
+
 	Consigne d'integration des projets IAO-Credit
+	
 ===============================================================
 
 	Le dossier global contient les elements suivants 
